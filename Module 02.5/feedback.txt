@@ -1,0 +1,4 @@
+1.input nyear system. scanf er puro kaj
+2. if, else, else if, er statement
+3. printf er kaj
+4. syntx er understanding.
