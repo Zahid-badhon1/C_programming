@@ -1,0 +1,8 @@
+# need to understand divisible 2 (https://www.hackerrank.com/contests/assignment-01-a-introduction-to-c-programming-a-batch-03/challenges/divisible-2-1-1)
+
+
+
+# What will be the logic of"Given two numbers A and B. Print "Multiples" if A is multiple of B or vice versa. Otherwise print "No Multiples"."
+https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/J
+# Asci  logic/formula https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/N
+# 
