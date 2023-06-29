@@ -2,7 +2,9 @@
 
 
 
-# What will be the logic of"Given two numbers A and B. Print "Multiples" if A is multiple of B or vice versa. Otherwise print "No Multiples"."
+# What will be the logic of"Given two numbers A and B. 
+Print "Multiples" if A is multiple of B or vice versa. Otherwise print "No Multiples"."
 https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/J
+
 # Asci  logic/formula https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/N
-# 
+ 

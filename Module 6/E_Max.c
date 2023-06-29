@@ -1,17 +1,19 @@
 #include <stdio.h>
 int main()
 {
-
     int n;
-    int i;
     scanf("%d", &n);
+    int a, i, max = 0;
     for (i = 1; i <= n; i++)
     {
-        if (i % 3 == 0, i % 7 == 0)
+        scanf("%d", &a);
+        if (a > max)
         {
-            printf("%d\n", i);
+            max = a;
         }
     }
+
+    printf("%d", max);
 
     return 0;
 }
