@@ -1,0 +1,1 @@
+fgets(a, 9, stdin);
